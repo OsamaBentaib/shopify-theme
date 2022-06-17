@@ -1,7 +1,7 @@
 {
-  "name": "fedemo",
+  "name": "ecynthia",
   "version": "1.0.0",
-  "description": "Local Front End Workflow Demo for Shopify Theme Development",
+  "description": "Shopify Theme Development",
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
@@ -31,6 +31,6 @@
     "shopify",
     "gulp"
   ],
-  "author": "Gil Greenberg",
+  "author": "Oussama Bentaib",
   "license": "MIT"
 }
